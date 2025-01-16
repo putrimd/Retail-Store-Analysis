@@ -25,7 +25,7 @@ shopping_mall: String variable of the name of the shopping mall where the transa
 
 ## Analysis
 
-### Explatory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 To understand the data using Python. Check any duplicate and null data.
 
 ### Cleaning data
